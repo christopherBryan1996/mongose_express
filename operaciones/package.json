@@ -1,0 +1,14 @@
+{
+  "name": "mongo-express",
+  "version": "1.0.0",
+  "description": "coneccion de base dedatos de mongose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.0.10"
+  }
+}
